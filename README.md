@@ -4,12 +4,12 @@ I have created a software that introduces myself to anyone who may come across i
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video]
+Software Demo Video -
 https://youtube.com/shorts/7ePAsN-M_yo?feature=share
 
 # Development Environment
 
-I created this program using the Python Programming language. 
+I created this program using the Python Programming language. I used Python 3.9.6 and Visual Studio Code 1.85.1. 
 
 # Useful Websites
 
