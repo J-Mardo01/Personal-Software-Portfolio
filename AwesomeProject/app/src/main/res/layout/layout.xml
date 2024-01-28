@@ -14,6 +14,7 @@
         android:id="@+id/workoutInput"
         android:layout_width="395dp"
         android:layout_height="212dp"
+        android:input_type="text"
         android:hint="Enter workout details" />
 
     <Button

@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         customSetContentView()
     }
 
+    @SuppressLint("InflateParams")
     private fun customSetContentView() {
         // Inflate the layout from XML
         val inflater = LayoutInflater.from(this)
